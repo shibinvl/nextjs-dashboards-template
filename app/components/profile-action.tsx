@@ -11,7 +11,7 @@ interface ProfileActionsProps {
 
 export function ProfileActions({ isDarkTheme, onThemeToggle }: ProfileActionsProps) {
   return (
-    <div className="flex items-center gap-4">
+    <div className="flex justify-between gap-4">
       {/* Theme toggle */}
       <div className="flex items-center gap-2">
         <Icon icon="lucide:sun" className={`text-lg ${!isDarkTheme ? "text-primary-500" : "text-default-500"}`} />
