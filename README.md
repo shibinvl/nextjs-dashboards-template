@@ -1,24 +1,37 @@
+# 🧭 Next.js 15 + HeroUI + TailwindCSS Dashboard Boilerplate
+
+A clean, production-ready **Next.js 15 App Router** dashboard starter built with:
+
+- 🧩 [HeroUI](https://heroui.chat) modern components
+- 🎨 TailwindCSS 3.4 for utility-first styling
+- 💡 Dark / Light theme switch with persistence
+- 📈 Recharts example integration
+- 🧭 Mobile-responsive sidebar with drawer
+- ⚡ Framer Motion for smooth animations
+- ♻️ Fully reusable and scalable component structure
+
+> **Perfect starter template** for SaaS apps, admin panels, analytics dashboards, and startup projects.
 
 ---
 
-# 📄 Final `LICENSE` file (MIT License)
+## 🔥 Features
 
-```plaintext
-MIT License
+- ✅ Next.js 15 App Router
+- ✅ HeroUI + TailwindCSS integration
+- ✅ Fully responsive (mobile/tablet/desktop)
+- ✅ Dark / Light mode switching
+- ✅ Mobile drawer with smooth slide-in animation
+- ✅ Recharts Sales Chart Example
+- ✅ Active sidebar item highlighting
+- ✅ Reusable ProfileActions and Theme management hooks
+- ✅ Clean project folder structure
 
-Copyright (c) 2024 Shibin VL
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 📦 Getting Started
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+```bash
+git clone https://github.com/shibinvl/nextjs-dashboards-template.git
+cd nextjs-dashboards-template
+npm install
+npm run dev
